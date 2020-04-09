@@ -1,0 +1,34 @@
+require: rubocop-performance
+
+AllCops:
+  TargetRubyVersion: 2.6
+  UseCache: false
+AsciiComments:
+  Enabled: false
+Metrics/MethodLength:
+  Enabled: false
+Metrics/LineLength:
+  Enabled: false
+  Max: 120
+  IgnoredPatterns: ['(\A|\s)#']
+  # If you want the rule not to apply to a specific folder/file
+  Exclude:
+    - 'db/schema.rb'
+    - 'config/locales/'
+Metrics/BlockLength:
+  Enabled: true
+  Exclude:
+    - 'spec/**/*'
+    - 'Gemfile'
+    - 'Gemfile.lock'
+Performance:
+  Enabled: true
+Style/EmptyMethod:
+  Enabled: false
+Style/StringLiterals:
+  Enabled: false
+Style/FrozenStringLiteralComment:
+  Enabled: false
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
+  AutoCorrect: true

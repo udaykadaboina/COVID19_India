@@ -2,6 +2,7 @@ require 'csv'
 require 'nokogiri'
 require 'open-uri'
 require 'yaml'
+require 'pry'
 
 # DataGenerator Factory scrapes remote URL & processes the data.
 #
@@ -41,7 +42,7 @@ class DataGenerator
       CSV.open("data/#{@upload_date_parsed}_data.csv", "w+") do |csv|
         csv << @titles
         @rows.each do |row|
-          csv << row.unshift(@upload_date_parsed)
+          csv << row
         end
       end
 
@@ -56,7 +57,7 @@ class DataGenerator
 
         @rows.each do |row|
           next if row.size < 5
-          csv2 << row.unshift(@upload_date_parsed)
+          csv2 << row
         end
       end
     end
@@ -75,8 +76,11 @@ class DataGenerator
         cells2.each do |c2|
           each_row << c2.children.text.strip
         end
+        # prepend date only if S.No is there in the row(i.e., ther is state entry)
+        each_row.unshift(@upload_date_parsed) if each_row.first.to_i > 0
         @rows << each_row
       end
+
       # Prepend 'Date' column
       @titles.unshift('Date')
     end

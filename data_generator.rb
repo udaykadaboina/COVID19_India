@@ -41,7 +41,7 @@ class DataGenerator
       CSV.open("data/#{@upload_date_parsed}_data.csv", "w+") do |csv|
         csv << @titles
         @rows.each do |row|
-          csv << row
+          csv << row.unshift(@upload_date_parsed)
         end
       end
 

@@ -26,6 +26,8 @@ jobs:
         architecture: x64
     - name: Install gems
       run: | 
+        gem install bundler:2.1.4
+        bundle update --bundler
         bundle install
     - name: Process Data
       run: |

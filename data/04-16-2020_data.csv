@@ -1,0 +1,37 @@
+Date,S. No.,Name of State / UT,Total Confirmed cases (Including 76 foreign Nationals) ,Cured/Discharged/Migrated,Death
+04-16-2020,1,Andaman and Nicobar Islands,11,10,0
+04-16-2020,2,Andhra Pradesh,534,20,14
+04-16-2020,3,Arunachal Pradesh,1,0,0
+04-16-2020,4,Assam,33,5,1
+04-16-2020,5,Bihar,74,29,1
+04-16-2020,6,Chandigarh,21,7,0
+04-16-2020,7,Chhattisgarh,33,17,0
+04-16-2020,8,Delhi,1578,42,32
+04-16-2020,9,Goa,7,5,0
+04-16-2020,10,Gujarat,871,64,36
+04-16-2020,11,Haryana,205,43,3
+04-16-2020,12,Himachal Pradesh,35,16,1
+04-16-2020,13,Jammu and Kashmir,300,36,4
+04-16-2020,14,Jharkhand,28,0,2
+04-16-2020,15,Karnataka,315,82,13
+04-16-2020,16,Kerala,388,218,3
+04-16-2020,17,Ladakh,17,10,0
+04-16-2020,18,Madhya Pradesh,1120,64,53
+04-16-2020,19,Maharashtra,2919,295,187
+04-16-2020,20,Manipur,2,1,0
+04-16-2020,21,Meghalaya,7,0,1
+04-16-2020,22,Mizoram,1,0,0
+04-16-2020,23,Nagaland#,0,0,0
+04-16-2020,24,Odisha,60,18,1
+04-16-2020,25,Puducherry,7,1,0
+04-16-2020,26,Punjab,186,27,13
+04-16-2020,27,Rajasthan,1023,147,3
+04-16-2020,28,Tamil Nadu,1242,118,14
+04-16-2020,29,Telengana,698,120,18
+04-16-2020,30,Tripura,2,1,0
+04-16-2020,31,Uttarakhand,37,9,0
+04-16-2020,32,Uttar Pradesh,773,68,13
+04-16-2020,32,West Bengal,231,42,7
+Total number of confirmed cases in India,12759*,1515,420
+*States wise distribution is subject to further verification and reconciliation
+#Nagaland Patient shifted to Assam

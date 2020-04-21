@@ -2,7 +2,6 @@ require 'csv'
 require 'nokogiri'
 require 'open-uri'
 require 'yaml'
-require 'pry'
 
 # DataGenerator Factory scrapes remote URL & processes the data.
 #

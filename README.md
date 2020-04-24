@@ -12,6 +12,13 @@ This repository scrapes [Ministry of Health and Family Welfare (Government of In
 3. Run the scraper using:
    `$ ruby data_generator`
 
+### Files Generated
+
+The web scraper daily scrapes the MoFHW site & creates the following files
+
+- `data/{MM-DD-YYYY}_data.csv` file consisting daily data.
+- `data/states_data_aggregated.csv` file consisting daily data appended, useful to draw times series graphs.
+
 
 ## Contributing
 

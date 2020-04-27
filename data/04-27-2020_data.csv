@@ -1,0 +1,37 @@
+Date,S. No.,Name of State / UT,Total Confirmed cases (Including 111 foreign Nationals) ,Cured/Discharged/Migrated,Death
+04-27-2020,1,Andaman and Nicobar Islands,33,11,0
+04-27-2020,2,Andhra Pradesh,1177,235,31
+04-27-2020,3,Arunachal Pradesh,1,1,0
+04-27-2020,4,Assam,36,27,1
+04-27-2020,5,Bihar,277,56,2
+04-27-2020,6,Chandigarh,30,17,0
+04-27-2020,7,Chhattisgarh,37,32,0
+04-27-2020,8,Delhi,2918,877,54
+04-27-2020,9,Goa,7,7,0
+04-27-2020,10,Gujarat,3301,313,151
+04-27-2020,11,Haryana,289,176,3
+04-27-2020,12,Himachal Pradesh,40,22,1
+04-27-2020,13,Jammu and Kashmir,523,137,6
+04-27-2020,14,Jharkhand,82,13,3
+04-27-2020,15,Karnataka,511,188,20
+04-27-2020,16,Kerala,469,342,4
+04-27-2020,17,Ladakh,20,14,0
+04-27-2020,18,Madhya Pradesh,2168,302,106
+04-27-2020,19,Maharashtra,8068,1188,342
+04-27-2020,20,Manipur,2,2,0
+04-27-2020,21,Meghalaya,12,0,1
+04-27-2020,22,Mizoram,1,0,0
+04-27-2020,23,Odisha,108,35,1
+04-27-2020,24,Puducherry,8,3,0
+04-27-2020,25,Punjab,313,71,18
+04-27-2020,26,Rajasthan,2185,518,41
+04-27-2020,27,Tamil Nadu,1885,1020,24
+04-27-2020,28,Telengana,1002,280,26
+04-27-2020,29,Tripura,2,2,0
+04-27-2020,30,Uttarakhand,51,33,0
+04-27-2020,31,Uttar Pradesh,1955,335,31
+04-27-2020,32,West Bengal,649,105,20
+Total number of confirmed cases in India,28380*,6362,886
+*220 cases are being assigned to states for contact tracing
+*States wise distribution is subject to further verification and reconciliation
+*Our figures are being reconciled with ICMR

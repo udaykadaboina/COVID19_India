@@ -1,0 +1,39 @@
+Date,S. No.,Name of State / UT,Total Confirmed cases* ,Cured/Discharged/Migrated,Deaths**
+05-14-2020,1,Andaman and Nicobar Islands,33,33,0
+05-14-2020,2,Andhra Pradesh,2137,1142,47
+05-14-2020,3,Arunachal Pradesh,1,1,0
+05-14-2020,4,Assam,80,39,2
+05-14-2020,5,Bihar,940,388,7
+05-14-2020,6,Chandigarh,187,28,3
+05-14-2020,7,Chhattisgarh,59,55,0
+05-14-2020,8,Dadar Nagar Haveli,1,0,0
+05-14-2020,9,Delhi,7998,2858,106
+05-14-2020,10,Goa,7,7,0
+05-14-2020,11,Gujarat,9267,3562,566
+05-14-2020,12,Haryana,793,418,11
+05-14-2020,13,Himachal Pradesh,66,39,2
+05-14-2020,14,Jammu and Kashmir,971,466,11
+05-14-2020,15,Jharkhand,173,79,3
+05-14-2020,16,Karnataka,959,451,33
+05-14-2020,17,Kerala,534,490,4
+05-14-2020,18,Ladakh,43,22,0
+05-14-2020,19,Madhya Pradesh,4173,2004,232
+05-14-2020,20,Maharashtra,25922,5547,975
+05-14-2020,21,Manipur,2,2,0
+05-14-2020,22,Meghalaya,13,10,1
+05-14-2020,23,Mizoram,1,1,0
+05-14-2020,24,Odisha,538,143,3
+05-14-2020,25,Puducherry,13,9,1
+05-14-2020,26,Punjab,1924,200,32
+05-14-2020,27,Rajasthan,4328,2459,121
+05-14-2020,28,Tamil Nadu,9227,2176,64
+05-14-2020,29,Telengana,1367,940,34
+05-14-2020,30,Tripura,155,16,0
+05-14-2020,31,Uttarakhand,72,46,1
+05-14-2020,32,Uttar Pradesh,3729,1902,83
+05-14-2020,33,West Bengal,2290,702,207
+Total number of confirmed cases in India,78003#,26235,2549
+*(Including foreign Nationals)
+**( more than 70% cases due to comorbidities )
+#States wise distribution is subject to further verification and reconciliation
+#Our figures are being reconciled with ICMR

@@ -1600,3 +1600,38 @@ Date,S. No.,Name of State / UT,Total Confirmed cases,Cured/Discharged/Migrated,D
 05-19-2020,32,Uttar Pradesh,4605,2783,118
 05-19-2020,33,West Bengal,2825,1006,244
 "",Cases being reassigned to states,814,"",""
+05-20-2020,1,Andaman and Nicobar Islands,33,33,0
+05-20-2020,2,Andhra Pradesh,2532,1621,52
+05-20-2020,3,Arunachal Pradesh,1,1,0
+05-20-2020,4,Assam,142,41,4
+05-20-2020,5,Bihar,1498,534,9
+05-20-2020,6,Chandigarh,200,57,3
+05-20-2020,7,Chhattisgarh,101,59,0
+05-20-2020,8,Dadar Nagar Haveli,1,0,0
+05-20-2020,9,Delhi,10554,4750,168
+05-20-2020,10,Goa,46,7,0
+05-20-2020,11,Gujarat,12140,5043,719
+05-20-2020,12,Haryana,964,627,14
+05-20-2020,13,Himachal Pradesh,92,47,3
+05-20-2020,14,Jammu and Kashmir,1317,653,17
+05-20-2020,15,Jharkhand,231,127,3
+05-20-2020,16,Karnataka,1397,544,40
+05-20-2020,17,Kerala,642,497,4
+05-20-2020,18,Ladakh,43,43,0
+05-20-2020,19,Madhya Pradesh,5465,2630,258
+05-20-2020,20,Maharashtra,37136,9639,1325
+05-20-2020,21,Manipur,9,2,0
+05-20-2020,22,Meghalaya,13,12,1
+05-20-2020,23,Mizoram,1,1,0
+05-20-2020,24,Odisha,978,277,5
+05-20-2020,25,Puducherry,18,9,1
+05-20-2020,26,Punjab,2002,1642,38
+05-20-2020,27,Rajasthan,5845,3337,143
+05-20-2020,28,Tamil Nadu,12448,4895,84
+05-20-2020,29,Telengana,1634,1010,38
+05-20-2020,30,Tripura,173,116,0
+05-20-2020,31,Uttarakhand,111,52,1
+05-20-2020,32,Uttar Pradesh,4926,2918,123
+05-20-2020,33,West Bengal,2961,1074,250
+"",Cases being reassigned to states,1096,"",""
+"",Total#,106750,42298,3303

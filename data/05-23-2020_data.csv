@@ -1,0 +1,40 @@
+Date,S. No.,Name of State / UT,Total Confirmed cases* ,Cured/Discharged/Migrated,Deaths**
+05-23-2020,1,Andaman and Nicobar Islands,33,33,0
+05-23-2020,2,Andhra Pradesh,2709,1763,55
+05-23-2020,3,Arunachal Pradesh,1,1,0
+05-23-2020,4,Assam,259,54,4
+05-23-2020,5,Bihar,2177,629,11
+05-23-2020,6,Chandigarh,218,178,3
+05-23-2020,7,Chhattisgarh,172,62,0
+05-23-2020,8,Dadar Nagar Haveli,1,0,0
+05-23-2020,9,Delhi,12319,5897,208
+05-23-2020,10,Goa,54,16,0
+05-23-2020,11,Gujarat,13268,5880,802
+05-23-2020,12,Haryana,1067,706,16
+05-23-2020,13,Himachal Pradesh,168,59,3
+05-23-2020,14,Jammu and Kashmir,1489,720,20
+05-23-2020,15,Jharkhand,308,136,3
+05-23-2020,16,Karnataka,1743,597,41
+05-23-2020,17,Kerala,732,512,4
+05-23-2020,18,Ladakh,44,43,0
+05-23-2020,19,Madhya Pradesh,6170,3089,272
+05-23-2020,20,Maharashtra,44582,12583,1517
+05-23-2020,21,Manipur,26,2,0
+05-23-2020,22,Meghalaya,14,12,1
+05-23-2020,23,Mizoram,1,1,0
+05-23-2020,24,Odisha,1189,436,7
+05-23-2020,25,Puducherry,26,10,0#
+05-23-2020,26,Punjab,2029,1847,39
+05-23-2020,27,Rajasthan,6494,3680,153
+05-23-2020,28,Tamil Nadu,14753,7128,98
+05-23-2020,29,Telengana,1761,1043,45
+05-23-2020,30,Tripura,175,152,0
+05-23-2020,31,Uttarakhand,153,56,1
+05-23-2020,32,Uttar Pradesh,5735,3238,152
+05-23-2020,33,West Bengal,3332,1221,265
+"",Cases being reassigned to states,1899,"",""
+"",Total#,125101,51784,3720
+*(Including foreign Nationals)
+**( more than 70% cases due to comorbidities )
+#States wise distribution is subject to further verification and reconciliation
+#Our figures are being reconciled with ICMR

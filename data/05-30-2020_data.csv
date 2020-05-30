@@ -1,0 +1,42 @@
+Date,S. No.,Name of State / UT,Active Cases*,Cured/Discharged/Migrated*,Deaths**,Total Confirmed cases*
+05-30-2020,1,Andaman and Nicobar Islands,0,33,0,33
+05-30-2020,2,Andhra Pradesh,1150,2226,60,3436
+05-30-2020,3,Arunachal Pradesh,2,1,0,3
+05-30-2020,4,Assam,895,125,4,1024
+05-30-2020,5,Bihar,2150,1211,15,3376
+05-30-2020,6,Chandigarh,96,189,4,289
+05-30-2020,7,Chhattisgarh,314,100,1,415
+05-30-2020,8,Dadar Nagar Haveli,2,0,0,2
+05-30-2020,9,Delhi,9142,7846,398,17386
+05-30-2020,10,Goa,28,41,0,69
+05-30-2020,11,Gujarat,6343,8611,980,15934
+05-30-2020,12,Haryana,762,940,19,1721
+05-30-2020,13,Himachal Pradesh,203,87,5,295
+05-30-2020,14,Jammu and Kashmir,1261,875,28,2164
+05-30-2020,15,Jharkhand,290,216,5,511
+05-30-2020,16,Karnataka,1839,894,48,2781
+05-30-2020,17,Kerala,577,565,8,1150
+05-30-2020,18,Ladakh,31,43,0,74
+05-30-2020,19,Madhya Pradesh,3042,4269,334,7645
+05-30-2020,20,Maharashtra,33133,26997,2098,62228
+05-30-2020,21,Manipur,51,8,0,59
+05-30-2020,22,Meghalaya,14,12,1,27
+05-30-2020,23,Mizoram,0,1,0,1
+05-30-2020,24,Nagaland,25,0,0,25
+05-30-2020,25,Odisha,829,887,7,1723
+05-30-2020,26,Puducherry,37,14,0,51
+05-30-2020,27,Punjab,206,1949,42,2197
+05-30-2020,28,Rajasthan,2937,5244,184,8365
+05-30-2020,29,Sikkim,1,0,0,1
+05-30-2020,30,Tamil Nadu,8779,11313,154,20246
+05-30-2020,31,Telengana,973,1381,71,2425
+05-30-2020,32,Tripura,80,171,0,251
+05-30-2020,33,Uttarakhand,609,102,5,716
+05-30-2020,34,Uttar Pradesh,2842,4244,198,7284
+05-30-2020,35,West Bengal,2736,1775,302,4813
+"",Cases being reassigned to states,5043,"","",5043
+"",Total#,86422,82370,4971,173763
+*(Including foreign Nationals)
+**( more than 70% cases due to comorbidities )
+#States wise distribution is subject to further verification and reconciliation
+#Our figures are being reconciled with ICMR

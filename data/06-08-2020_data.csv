@@ -1,0 +1,42 @@
+Date,S. No.,Name of State / UT,Active Cases*,Cured/Discharged/Migrated*,Deaths**,Total Confirmed cases*
+06-08-2020,1,Andaman and Nicobar Islands,0,33,0,33
+06-08-2020,2,Andhra Pradesh,1951,2682,75,4708
+06-08-2020,3,Arunachal Pradesh,50,1,0,51
+06-08-2020,4,Assam,1946,615,4,2565
+06-08-2020,5,Bihar,2578,2480,30,5088
+06-08-2020,6,Chandigarh,36,273,5,314
+06-08-2020,7,Chhattisgarh,786,283,4,1073
+06-08-2020,8,Dadar Nagar Haveli,18,2,0,20
+06-08-2020,9,Delhi,17125,10999,812,28936
+06-08-2020,10,Goa,235,65,0,300
+06-08-2020,11,Gujarat,5186,13635,1249,20070
+06-08-2020,12,Haryana,2286,2134,28,4448
+06-08-2020,13,Himachal Pradesh,184,224,5,413
+06-08-2020,14,Jammu and Kashmir,2830,1216,41,4087
+06-08-2020,15,Jharkhand,602,490,7,1099
+06-08-2020,16,Karnataka,3259,2132,61,5452
+06-08-2020,17,Kerala,1096,803,15,1914
+06-08-2020,18,Ladakh,52,50,1,103
+06-08-2020,19,Madhya Pradesh,2658,6331,412,9401
+06-08-2020,20,Maharashtra,43601,39314,3060,85975
+06-08-2020,21,Manipur,120,52,0,172
+06-08-2020,22,Meghalaya,22,13,1,36
+06-08-2020,23,Mizoram,33,1,0,34
+06-08-2020,24,Nagaland,110,8,0,118
+06-08-2020,25,Odisha,953,1894,9,2856
+06-08-2020,26,Puducherry,63,36,0,99
+06-08-2020,27,Punjab,451,2106,51,2608
+06-08-2020,28,Rajasthan,2718,7641,240,10599
+06-08-2020,29,Sikkim,7,0,0,7
+06-08-2020,30,Tamil Nadu,14399,16999,269,31667
+06-08-2020,31,Telengana,1803,1710,137,3650
+06-08-2020,32,Tripura,608,192,0,800
+06-08-2020,33,Uttarakhand,814,528,13,1355
+06-08-2020,34,Uttar Pradesh,4076,6185,275,10536
+06-08-2020,35,West Bengal,4488,3303,396,8187
+"",Cases being reassigned to states,7837,"","",7837
+"",Total#,124981,124430,7200,256611
+*(Including foreign Nationals)
+**( more than 70% cases due to comorbidities )
+#States wise distribution is subject to further verification and reconciliation
+#Our figures are being reconciled with ICMR

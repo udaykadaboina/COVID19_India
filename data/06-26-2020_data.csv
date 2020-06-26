@@ -1,0 +1,42 @@
+Date,S. No.,Name of State / UT,Active Cases*,Cured/Discharged/Migrated*,Deaths**,Total Confirmed cases*
+06-26-2020,1,Andaman and Nicobar Islands,16,43,0,59
+06-26-2020,2,Andhra Pradesh,5760,4988,136,10884
+06-26-2020,3,Arunachal Pradesh,121,38,1,160
+06-26-2020,4,Assam,2279,4033,9,6321
+06-26-2020,5,Bihar,1975,6441,57,8473
+06-26-2020,6,Chandigarh,88,329,6,423
+06-26-2020,7,Chhattisgarh,685,1755,12,2452
+06-26-2020,8,Dadra and Nagar Haveli and Daman and Diu,123,32,0,155
+06-26-2020,9,Delhi,26586,44765,2429,73780
+06-26-2020,10,Goa,658,335,2,995
+06-26-2020,11,Gujarat,6269,21498,1753,29520
+06-26-2020,12,Haryana,4885,7380,198,12463
+06-26-2020,13,Himachal Pradesh,353,477,9,839
+06-26-2020,14,Jammu and Kashmir,2492,3967,90,6549
+06-26-2020,15,Jharkhand,645,1605,12,2262
+06-26-2020,16,Karnataka,3720,6670,170,10560
+06-26-2020,17,Kerala,1761,1943,22,3726
+06-26-2020,18,Ladakh,582,358,1,941
+06-26-2020,19,Madhya Pradesh,2435,9619,542,12596
+06-26-2020,20,Maharashtra,63357,77453,6931,147741
+06-26-2020,21,Manipur,702,354,0,1056
+06-26-2020,22,Meghalaya,3,42,1,46
+06-26-2020,23,Mizoram,115,30,0,145
+06-26-2020,24,Nagaland,195,160,0,355
+06-26-2020,25,Odisha,1654,4291,17,5962
+06-26-2020,26,Puducherry,306,187,9,502
+06-26-2020,27,Punjab,1457,3192,120,4769
+06-26-2020,28,Rajasthan,3077,12840,379,16296
+06-26-2020,29,Sikkim,46,39,0,85
+06-26-2020,30,Tamil Nadu,30067,39999,911,70977
+06-26-2020,31,Telangana,6446,4688,230,11364
+06-26-2020,32,Tripura,270,1019,1,1290
+06-26-2020,33,Uttarakhand,897,1758,36,2691
+06-26-2020,34,Uttar Pradesh,6463,13119,611,20193
+06-26-2020,35,West Bengal,4852,10190,606,15648
+"",Cases being reassigned to states,8123,"","",8123
+"",Total#,189463,285637,15301,490401
+*(Including foreign Nationals)
+**( more than 70% cases due to comorbidities )
+#States wise distribution is subject to further verification and reconciliation
+#Our figures are being reconciled with ICMR

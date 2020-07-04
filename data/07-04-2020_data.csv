@@ -1,0 +1,42 @@
+Date,S. No.,Name of State / UT,Active Cases*,Cured/Discharged/Migrated*,Deaths**,Total Confirmed cases*
+07-04-2020,1,Andaman and Nicobar Islands,62,54,0,116
+07-04-2020,2,Andhra Pradesh,9096,7632,206,16934
+07-04-2020,3,Arunachal Pradesh,176,75,1,252
+07-04-2020,4,Assam,3310,6349,14,9673
+07-04-2020,5,Bihar,2660,8214,80,10954
+07-04-2020,6,Chandigarh,58,393,6,457
+07-04-2020,7,Chhattisgarh,614,2437,14,3065
+07-04-2020,8,Dadra and Nagar Haveli and Daman and Diu,161,96,0,257
+07-04-2020,9,Delhi,26148,65624,2923,94695
+07-04-2020,10,Goa,744,734,4,1482
+07-04-2020,11,Gujarat,7763,24933,1904,34600
+07-04-2020,12,Haryana,4057,11691,255,16003
+07-04-2020,13,Himachal Pradesh,356,667,10,1033
+07-04-2020,14,Jammu and Kashmir,2825,5075,119,8019
+07-04-2020,15,Jharkhand,679,2001,15,2695
+07-04-2020,16,Karnataka,10612,8805,293,19710
+07-04-2020,17,Kerala,2098,2841,25,4964
+07-04-2020,18,Ladakh,223,777,1,1001
+07-04-2020,19,Madhya Pradesh,2655,11049,593,14297
+07-04-2020,20,Maharashtra,79927,104687,8376,192990
+07-04-2020,21,Manipur,677,639,0,1316
+07-04-2020,22,Meghalaya,18,43,1,62
+07-04-2020,23,Mizoram,36,126,0,162
+07-04-2020,24,Nagaland,311,228,0,539
+07-04-2020,25,Odisha,2372,5705,29,8106
+07-04-2020,26,Puducherry,459,331,12,802
+07-04-2020,27,Punjab,1514,4266,157,5937
+07-04-2020,28,Rajasthan,3331,15281,440,19052
+07-04-2020,29,Sikkim,49,53,0,102
+07-04-2020,30,Tamil Nadu,42958,58378,1385,102721
+07-04-2020,31,Telangana,9984,10195,283,20462
+07-04-2020,32,Tripura,325,1199,1,1525
+07-04-2020,33,Uttarakhand,525,2481,42,3048
+07-04-2020,34,Uttar Pradesh,7451,17597,749,25797
+07-04-2020,35,West Bengal,6200,13571,717,20488
+"",Cases being reassigned to states,4999,"","",4999
+"",Total#,235433,394227,18655,648315
+*(Including foreign Nationals)
+**( more than 70% cases due to comorbidities )
+#States wise distribution is subject to further verification and reconciliation
+#Our figures are being reconciled with ICMR

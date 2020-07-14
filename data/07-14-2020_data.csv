@@ -1,0 +1,42 @@
+Date,S. No.,Name of State / UT,Active Cases*,Cured/Discharged/Migrated*,Deaths**,Total Confirmed cases*
+07-14-2020,1,Andaman and Nicobar Islands,57,109,0,166
+07-14-2020,2,Andhra Pradesh,14274,16464,365,31103
+07-14-2020,3,Arunachal Pradesh,240,145,2,387
+07-14-2020,4,Assam,5876,10894,36,16806
+07-14-2020,5,Bihar,5482,12317,160,17959
+07-14-2020,6,Chandigarh,157,423,8,588
+07-14-2020,7,Chhattisgarh,996,3202,19,4217
+07-14-2020,8,Dadra and Nagar Haveli and Daman and Diu,226,268,1,495
+07-14-2020,9,Delhi,19017,91312,3411,113740
+07-14-2020,10,Goa,1026,1540,17,2583
+07-14-2020,11,Gujarat,10897,29770,2055,42722
+07-14-2020,12,Haryana,4984,16602,308,21894
+07-14-2020,13,Himachal Pradesh,292,940,11,1243
+07-14-2020,14,Jammu and Kashmir,4545,6095,187,10827
+07-14-2020,15,Jharkhand,1514,2351,33,3898
+07-14-2020,16,Karnataka,24576,16248,757,41581
+07-14-2020,17,Kerala,4032,4257,33,8322
+07-14-2020,18,Ladakh,146,946,1,1093
+07-14-2020,19,Madhya Pradesh,4336,13208,663,18207
+07-14-2020,20,Maharashtra,105935,144507,10482,260924
+07-14-2020,21,Manipur,656,970,0,1626
+07-14-2020,22,Meghalaya,250,66,2,318
+07-14-2020,23,Mizoram,82,151,0,233
+07-14-2020,24,Nagaland,505,340,0,845
+07-14-2020,25,Odisha,4412,9255,70,13737
+07-14-2020,26,Puducherry,665,785,18,1468
+07-14-2020,27,Punjab,2388,5586,204,8178
+07-14-2020,28,Rajasthan,5781,18630,525,24936
+07-14-2020,29,Sikkim,106,86,0,192
+07-14-2020,30,Tamil Nadu,48199,92567,2032,142798
+07-14-2020,31,Telangana,12177,23679,365,36221
+07-14-2020,32,Tripura,603,1475,2,2080
+07-14-2020,33,Uttarakhand,703,2856,49,3608
+07-14-2020,34,Uttar Pradesh,12972,24203,955,38130
+07-14-2020,35,West Bengal,11279,19213,956,31448
+"",Cases being reassigned to states,2179,"","",2179
+"",Total#,311565,571460,23727,906752
+*(Including foreign Nationals)
+**( more than 70% cases due to comorbidities )
+#States wise distribution is subject to further verification and reconciliation
+#Our figures are being reconciled with ICMR
